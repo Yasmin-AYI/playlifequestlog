@@ -31,4 +31,17 @@
  
 **Next**
 - Start building the app: clone the repo and build the first scene
+
+## 2026-11-27 - Day 2
+
+**Done**
+- Cloned the repo to my Mac and set up VS Code
+- Wrote my first HTML page (index.html)
+- Set Git to use a private noreply email
+- Pushed my first commit
+
+**Next**
+- To Style the page with CSS (Dark purple, pixel look)
+
   
+
